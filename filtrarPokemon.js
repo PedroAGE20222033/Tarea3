@@ -1,5 +1,3 @@
-// filtrarPokemon.js
-
 function filtrarPokemonByType(type, listaPokemon) {
     listaPokemon.innerHTML = "";
 
